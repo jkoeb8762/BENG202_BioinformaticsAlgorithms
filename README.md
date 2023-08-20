@@ -2,13 +2,13 @@
 This repository contains implementations and projects related to the UCSD- BENG202/CSE282 course: Bioinformatics II: Bioinformatic Algorithms. Each chapter demonstrates deep understanding of various bioinformatic algorithms and potential applications in solving real-world problems.
 
 ## Table of Contents
-1. Chapters
+1. Chapters and Problems
 2. Programming Language
 3. Contributions
 4. Academic Honesty & Integrity
 5. Purpose of Publication
 
-## Chapters
+## Chapters and Problems
 ### **Chapter 1:** Where in the genome does replication begin? (Replication Origin)
 **1A:** Compute the Number of Times a Pattern Appears in a Text
 
