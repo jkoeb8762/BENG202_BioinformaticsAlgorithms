@@ -1,3 +1,0 @@
-CC :  CT CG
-CT :  TC
-TC :  CC

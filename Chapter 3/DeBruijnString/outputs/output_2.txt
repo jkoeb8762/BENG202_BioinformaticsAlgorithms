@@ -1,2 +1,0 @@
-AGC :  GCC
-GCC :  CCT
