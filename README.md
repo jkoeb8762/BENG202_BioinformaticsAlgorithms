@@ -9,15 +9,81 @@ This repository contains implementations and projects related to the UCSD- BENG2
 5. Purpose of Publication
 
 ## Chapters
-**Chapter 1:** Where in the genome does replication begin? (Replication Origin)
+### **Chapter 1:** Where in the genome does replication begin? (Replication Origin)
+**1A:** Compute the Number of Times a Pattern Appears in a Text
 
-**Chapter 2:** Which DNA patterns play a role the role of molecular clocks? (Regulatory Motifs)
+**1B:** Find the Most Frequent Words in a String
 
-**Chapter 3:** How do we assemble genomes? (Assembly)
+**1C:** Find the Reverse Complement of a String
 
-**Chapter 4:** How do we compare biological sequences? (Alignment)
+**1D:** Find All Occurrences of a Pattern in a String
 
-**Chapter 6:** Are there fragile regions in the human genome? (Rearrangements)
+**1E:** Find Patterns Forming Clumps in a String
+
+**1F:** Find a Position in a Genome Minimizing the Skew
+
+**1G:** Compute the Hamming Distance Between Two Strings
+
+**1H:** Find All Approximate Occurrences of a Pattern in a String
+
+**1I:** Find the Most Frequent Words with Mismatches in a String
+
+### **Chapter 2:** Which DNA patterns play a role the role of molecular clocks? (Regulatory Motifs)
+**2A:** Implement MotifEnumeration
+
+**2B:** Find a Median String
+
+**2C:** Find a Profile-most Probable k-mer in a String
+
+**2F:** Implement RandomizedMotifSearch
+
+**2G:** Implement GibbsSampler
+
+**2H:** Implement DistanceBetweenPatternAndStrings
+
+### **Chapter 3:** How do we assemble genomes? (Assembly)
+**3C:** Construct the Overlap Graph of a Collection of k-mers
+
+**3D:** Construct the De Bruijn Graph of a String
+
+**3E:** Construct the De Bruijn Graph of a Collection of k-mers
+
+**3F:** Find an Eulerian Cycle in a Graph
+
+**3G:** Find an Eulerian Path in a Graph
+
+**3H:** Reconstruct a String from its k-mer Composition
+
+**3I:** Find a k-Universal Circular String
+
+**3J:** Reconstruct a String from its Paired Composition
+### **Chapter 4:** How do we compare biological sequences? (Alignment)
+**5B:** Find the Length of a Longest Path in a Manhattan-like Grid
+
+**5C:** Find a Longest Common Subsequence of Two Strings
+
+**5D:** Find the Longest Path in a DAG
+
+**5E:** Find a Highest-Scoring Alignment of Two Strings
+
+**5F:** Find a Highest-Scoring Local Alignment of Two Strings
+
+**5G:** Compute the Edit Distance Between Two Strings
+
+**5H:** Find a Highest-Scoring Fitting Alignment of Two Strings
+
+### **Chapter 6:** Are there fragile regions in the human genome? (Rearrangements)
+**6A:** Implement GreedySorting to Sort a Permutation by Reversals
+
+**6B:** Compute the Number of Breakpoints in a Permutation
+
+**6E:** Find All Shared k-mers of a Pair of Strings
+
+**6F:** Implement ChromosomeToCycle
+
+**6G:** Implement CycleToChromosome
+
+**6H:** Implement ColoredEdges
 
 ## Programming Language
 All code written in Python. 
