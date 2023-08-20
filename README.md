@@ -15,15 +15,9 @@ This repository contains implementations and projects related to the UCSD- BENG2
 
 **Chapter 3:** How do we assemble genomes? (Assembly)
 
-**Chapter 4:** How do we compare biological sequences? (Alignment, Part 1)
-
-**Chapter 5:** How do we align biological sequences? (Alignment, Part 2)
+**Chapter 4:** How do we compare biological sequences? (Alignment)
 
 **Chapter 6:** Are there fragile regions in the human genome? (Rearrangements)
-
-**Chapter 7:** How do we locate disease-causing mutations? (Detecting Mutations, Part 1)
-
-**Chapter 9:** How do we locate disease-causing mutations? (Detecting Mutations, Part 2)
 
 ## Programming Language
 All code written in Python. 
